@@ -1,2 +1,6 @@
 # uv_msgs
-Implementation of University of Veracruz (UV) ROS mesagges needed by some packafges and nodes.
+
+UV ROS msgs definitions
+
+Derechos reservados Centro de Investigacion en Inteligencia Artificial
+Universidad veracruzana
